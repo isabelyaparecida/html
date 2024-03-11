@@ -1,0 +1,27 @@
+ssCopy code
+/* styles.css */
+h2 {
+ padding: 10px;
+ border-radius: 5px;
+ margin-bottom: 10px;
+}
+.h1-colorido {
+ background-color: rgb(35, 35, 216);
+ color: rgb(224, 222, 236);
+}
+.hex-colorido {
+ background-color: #1010df;
+ color: rgb(219, 215, 231);
+}
+.rgb-colorido {
+ background-color: rgb(17, 17, 235);
+ color: rgb(243, 243, 245);
+}
+.hsl-colorido {
+ background-color: hsl(240, 84%, 43%);
+ color: hsl(225, 29%, 95%)
+}
+.rgba-colorido {
+ background-color: rgba(20, 20, 228, 0.5);
+ color: rgb(240, 237, 247);
+
